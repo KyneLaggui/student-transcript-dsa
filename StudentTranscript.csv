@@ -1,0 +1,10 @@
+Serial,Student ID,Name,College,Department,Level,Degree,Major,Minor,Terms,Course Name,Course ID,Course Type,Credit Hours,Grade
+1,201006000,Ibrahim Ahmer Nemer,College 1,C1Department1,U,BS1,C1D1MajorBS1,C1D1MinorBS1,8,CourseA1,CA1,Major,3,75
+2,201006000,Ibrahim Ahmer Nemer,College 1,C1Department1,G,M1,C1D1MajorM1,C1D1MinorM1,4,CourseA6,CA6,Minor,4,76
+3,201006000,Ibrahim Ahmer Nemer,College 1,C1Department1,G,D1,C1D1MajorD1,C1D1MinorD1,6,CourseA2,CA2,Major,3,77
+4,201007000,Ali Mohamamd Hadi,College 2,C2Department1,U,BS1,C1D1MajorBS1,C1D1MinorBS1,7,CourseA11,CA11,Major,3,78
+5,201008000,Ahmed Ali Mohammad,College 3,C3Department1,G,M1,C1D1MajorM1,C1D1MinorM1,4,CourseA16,CA16,Minor,4,60
+6,201008000,Ahmed Ali Mohammad,College 1,C1Department1,G,M2,C1D1MajorM2,C1D1MinorM2,3,CourseA12,CA12,Major,3,81
+7,201009000,Mohammad Ibrahim Ali,College 4,C4Department1,U,BS1,C1D1MajorBS1,C1D1MinorBS1,8,CourseA21,CA21,Major,3,82
+8,201009000,Mohammad Ibrahim Ali,College 4,C4Department1,G,M1,C1D1MajorM1,C1D1MinorM1,3,CourseA26,CA26,Minor,4,81
+9,201101000,Kamal Abdallah Mohammad,College 5,C5Department1,G,D1,C1D1MajorD1,C1D1MinorD1,7,CourseA22,CA22,Major,3,82
