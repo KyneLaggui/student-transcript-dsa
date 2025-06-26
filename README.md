@@ -31,11 +31,12 @@ The Student Transcript Generation System is a command-line-based final project d
 
 ## 🤝 Collaborators
 
-| Name                | GitHub                                     |
-| ------------------- | ------------------------------------------ |
-| Kyle Carandang      | [@kylekrc](https://github.com/kylekrc)     |
-| Justin Carl de Guia | [@Rodskov](https://github.com/Rodskov)     |
-| William Elumba      | [@wjrelumba](https://github.com/wjrelumba) |
+| Name                | GitHub                                       |
+| ------------------- | -------------------------------------------- |
+| Kyne Laggui         | [@KyneLaggui](https://github.com/KyneLaggui) |
+| Kyle Carandang      | [@kylekrc](https://github.com/kylekrc)       |
+| Justin Carl de Guia | [@Rodskov](https://github.com/Rodskov)       |
+| William Elumba      | [@wjrelumba](https://github.com/wjrelumba)   |
 
 ## 🖼 Photo Documentations
 
